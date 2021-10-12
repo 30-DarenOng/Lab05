@@ -1353,9 +1353,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ScoreText: {fileID: 813419719}
   TimerText: {fileID: 1854699801}
-  TimeLeft: 30
-  timeRemaining: 30
-  timeValue: 30
+  TimeLeft: 60
+  timeRemaining: 60
+  timeValue: 60
   whey: {fileID: 8810156001590234685, guid: dfaa99233095be64abee3cf804519c04, type: 3}
   Supraphysiological: {fileID: 8300000, guid: 18c39aba60bee7d4f9b6b863da2abe4b, type: 3}
   SAUCED: {fileID: 0}
